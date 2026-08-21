@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems.;Engineering+real-time+distributed+applications.;Exploring+RAG%2C+agents%2C+and+LLM+systems.;Turning+ideas+into+production-ready+software." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+scalable+backend+systems.;Engineering+real-time+distributed+applications.;Exploring+RAG%2C+agents%2C+and+LLM+systems.;Turning+ideas+into+production-ready+software." alt="Typing SVG" />
 
 </div>
 
@@ -26,11 +26,11 @@
 
 I'm a **Computer Science & Engineering (AI/ML) student at VIT Vellore** who enjoys building systems at the intersection of **backend engineering, distributed systems, cloud infrastructure, and AI**.
 
-* 🔭 Building with **Python, Java, Spring Boot, Django, React, and AI frameworks**
-* 🧠 Interested in **backend architecture, scalable systems, RAG, multi-agent systems, and cloud infrastructure**
-* ☁️ **AWS Certified Solutions Architect – Associate**
-* 🤖 **IBM Agentic AI Professional Certification**
-* 🚀 I care about **performance, reliability, clean APIs, and software that solves real problems**
+- 🔭 Building with **Python, Java, Spring Boot, Django, React, and AI frameworks**
+- 🧠 Interested in **backend architecture, scalable systems, RAG, multi-agent systems, and cloud infrastructure**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🤖 **IBM Agentic AI Professional Certification**
+- 🚀 I care about **performance, reliability, clean APIs, and software that solves real problems**
 
 ---
 
@@ -40,19 +40,19 @@ I'm a **Computer Science & Engineering (AI/ML) student at VIT Vellore** who enjo
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,postgres" />
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp,postgres" alt="Languages" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,redis" />
+<img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,redis" alt="Backend Technologies" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend Technologies" />
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="Cloud and DevOps" />
 
 ### AI / ML
 
@@ -73,18 +73,14 @@ I'm a **Computer Science & Engineering (AI/ML) student at VIT Vellore** who enjo
 
 ### Real-Time Multiplayer Chess
 
-A real-time multiplayer chess platform built with:
-
 `Java` `Spring Boot` `React` `PostgreSQL` `Redis` `WebSockets` `AWS`
 
-**Highlights**
-
-* ♟️ Real-time multiplayer gameplay
-* ⚡ WebSocket/STOMP communication
-* 🚀 Redis-backed state management
-* 🗄️ PostgreSQL persistence
-* ☁️ AWS deployment
-* 📈 Designed for **10K+ concurrent users**
+- ♟️ Real-time multiplayer gameplay
+- ⚡ WebSocket/STOMP communication
+- 🚀 Redis-backed state management
+- 🗄️ PostgreSQL persistence
+- ☁️ AWS deployment
+- 📈 Designed for **10K+ concurrent users**
 
 </td>
 
@@ -94,17 +90,13 @@ A real-time multiplayer chess platform built with:
 
 ### AI Customer Support System
 
-An agentic customer-support system built around:
-
 `LangGraph` `RAG` `LLMs` `Vector DB`
 
-**Highlights**
-
-* 🧠 Multi-agent orchestration
-* 🔎 Retrieval-Augmented Generation
-* 🛠️ Tool calling
-* 💬 Context-aware responses
-* 🔄 Agent workflow coordination
+- 🧠 Multi-agent orchestration
+- 🔎 Retrieval-Augmented Generation
+- 🛠️ Tool calling
+- 💬 Context-aware responses
+- 🔄 Agent workflow coordination
 
 </td>
 
@@ -118,18 +110,14 @@ An agentic customer-support system built around:
 
 ### Timesheet Processing System
 
-Automation system using:
-
 `Python` `Electron.js` `Keka API`
 
 Built for **200+ employees**.
 
-**Impact**
-
-* Automated ETL-style processing
-* Client-specific template generation
-* Automated timesheet workflows
-* ⏱️ Reduced processing from **~1 business day → under 3 minutes**
+- Automated ETL-style processing
+- Client-specific template generation
+- Automated timesheet workflows
+- ⏱️ Reduced processing from **~1 business day → under 3 minutes**
 
 </td>
 
@@ -139,17 +127,13 @@ Built for **200+ employees**.
 
 ### Backend API
 
-Backend booking platform using:
-
 `Node.js` `Express` `MongoDB` `JWT` `Razorpay`
 
-**Highlights**
-
-* REST API architecture
-* JWT authentication
-* Booking workflows
-* Payment integration
-* Persistent transaction data
+- REST API architecture
+- JWT authentication
+- Booking workflows
+- Payment integration
+- Persistent transaction data
 
 </td>
 
@@ -174,9 +158,9 @@ Worked with **Django, Celery, Redis, billing workflows, payment operations, anal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%7C%20Associate-232F3E?style=for-the-badge&logo=amazonaws" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%7C%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate" />
 
-<img src="https://img.shields.io/badge/IBM-Agentic%20AI%20Professional-052FAD?style=for-the-badge&logo=ibm" />
+<img src="https://img.shields.io/badge/IBM-Agentic%20AI%20Professional-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Agentic AI Professional Certification" />
 
 </div>
 
@@ -207,7 +191,10 @@ Worked with **Django, Celery, Redis, billing workflows, payment operations, anal
 />
 
 </div>
-# 🐍 Contribution Activity
+
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -216,18 +203,29 @@ Worked with **Django, Celery, Redis, billing workflows, payment operations, anal
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/output/github-contribution-grid-snake.svg"
   />
-
   <img
     src="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/output/github-contribution-grid-snake.svg"
     width="100%"
     alt="GitHub contribution snake animation"
   />
-
 </picture>
+
+<br>
+
+*My GitHub contributions, turned into a snake game 🐍*
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Building. Learning. Shipping.
+
+*Always working on something new.*
 
 </div>
