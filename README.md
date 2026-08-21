@@ -186,42 +186,24 @@ Worked with **Django, Celery, Redis, billing workflows, payment operations, anal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayush-govindwar&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-govindwar&layout=compact&hide_border=true&langs_count=8" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=ayush-govindwar&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 🎯 What I'm Looking For
-
-I'm interested in **software engineering, backend engineering, AI engineering, and applied ML opportunities** where I can work on real systems, solve difficult engineering problems, and keep learning.
-
-<div align="center">
-
-## Let's build something worth shipping. 🚀
-
-<a href="mailto:swayush.govindwar@gmail.com">
-  📩 Get in touch
-</a>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-govindwar&theme=github_dark"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ayush-govindwar&style=flat-square&color=58A6FF" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-govindwar&theme=github_dark"
+  width="49%"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-govindwar&theme=github_dark"
+  width="49%"
+  alt="Top Languages"
+/>
 
 </div>
