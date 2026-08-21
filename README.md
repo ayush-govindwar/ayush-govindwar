@@ -198,25 +198,11 @@ Worked with **Django, Celery, Redis, billing workflows, payment operations, anal
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="GitHub contribution snake animation"
-  />
-</picture>
-
-<br>
-
-*My GitHub contributions, turned into a snake game 🐍*
+<img
+  src="https://raw.githubusercontent.com/ayush-govindwar/ayush-govindwar/main/output/github-contribution-grid-snake.svg"
+  width="100%"
+  alt="GitHub contribution snake animation"
+/>
 
 </div>
 
